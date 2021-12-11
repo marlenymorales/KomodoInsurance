@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoInsurance.UI", "KomodoInsurance.UI\KomodoInsurance.UI.csproj", "{47541A12-1795-4155-88A5-B2C9F317CCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoInsurance.Repos", "KomodoInsurance.Repos\KomodoInsurance.Repos.csproj", "{B5879B0B-6558-4E47-820B-E3B8452B88EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47541A12-1795-4155-88A5-B2C9F317CCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47541A12-1795-4155-88A5-B2C9F317CCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47541A12-1795-4155-88A5-B2C9F317CCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47541A12-1795-4155-88A5-B2C9F317CCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5879B0B-6558-4E47-820B-E3B8452B88EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5879B0B-6558-4E47-820B-E3B8452B88EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5879B0B-6558-4E47-820B-E3B8452B88EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5879B0B-6558-4E47-820B-E3B8452B88EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D4B14D-7A61-4ACA-BD79-1A6439CEAA25}
+	EndGlobalSection
+EndGlobal
